@@ -1,6 +1,7 @@
 <!-- src/lib/components/BundleDiscounts.svelte -->
 <script lang="ts">
     // This component is a read-only “rules board” (editable in /settings)
+    //test
   </script>
   
   <div class="card">
